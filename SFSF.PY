@@ -1,0 +1,7 @@
+print("hello irfan")
+print("makan bang")
+print("siapa yang cita-citanya masuk surga?")
+print("aku punya anjing kecil")
+print("siapa suka bakso?")
+print("hari ini jadwal praktikum pemrograman")
+print("kami bakal bikin laporan praktikum")
